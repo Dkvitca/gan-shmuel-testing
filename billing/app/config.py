@@ -11,3 +11,5 @@ config = {
     "MYSQL_DATABASE_PASSWORD": os.getenv("MYSQL_DATABASE_PASSWORD"),
     "MYSQL_DATABASE_DB": os.getenv("MYSQL_DATABASE_DB"),
 }
+
+#there is some testing going around here
